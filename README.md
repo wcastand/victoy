@@ -1,0 +1,4 @@
+expo
+
+
+`npx expo start` 
